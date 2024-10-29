@@ -2,6 +2,6 @@ class Sample
 {
 	public static void main(String args[])
 	{
-		System.out.println("klm");
+		System.out.println("pushpa");
 	}
 }
